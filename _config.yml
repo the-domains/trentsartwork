@@ -1,6 +1,6 @@
 name: TrentsArtwork
 favicon: null
-layout_spectrum: 0.30957214580848813
+layout_spectrum: 0.90198
 typography_spectrum: 0.007069151382893324
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.1817741822451353
+  brandStrength: 0.4375
   lightness: 0.35171058564446867
   saturation: 0.6616574239451438
   rhythmicContrast: 0.457949957344681
