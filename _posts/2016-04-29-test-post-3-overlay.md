@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: test post 3-overlay
-datePublished: '2016-04-29T17:46:55.341Z'
-dateModified: '2016-04-29T17:45:50.558Z'
+datePublished: '2016-04-29T19:40:41.612Z'
+dateModified: '2016-04-29T17:47:01.943Z'
+title: Ironstick 2
+author:
+  - name: Trent Reilly
+    url: 'http://www.trentreilly.com'
+sourcePath: _posts/2016-04-29-test-post-3-overlay.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-29-test-post-3-overlay.md
-published: true
 url: test-post-3-overlay/index.html
 _type: Article
 
