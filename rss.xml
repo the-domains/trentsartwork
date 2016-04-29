@@ -4,8 +4,15 @@
         <description><![CDATA[Trent's Artwork]]></description>
         <link>https://thegrid.ai/trentsartwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 17:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 17:47:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/trentsartwork/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/152f1750-3cd2-412b-969b-53aa4c21f532.jpg">]]></description>
+            <link>https://thegrid.ai/trentsartwork/test-post-3-overlay/index.html</link>
+            <guid isPermaLink="false">ce316356-2216-474c-9555-226480d247d4</guid>
+            <pubDate>Fri, 29 Apr 2016 17:46:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test post 2</p>]]></description>
